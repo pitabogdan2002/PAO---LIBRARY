@@ -1,0 +1,100 @@
+Add book,2023-05-20 20:24:00.693
+Add Author,2023-05-24 15:15:12.019
+Add Fiction book,2023-05-24 15:15:41.941
+Check if there are fantasy and bestseller books,2023-05-24 15:16:05.975
+Order genres based on frequency,2023-05-24 15:16:18.342
+Add Non-Fiction book,2023-05-24 15:18:27.449
+Add Non-Fiction book,2023-05-24 15:19:11.809
+Check if there are fantasy and bestseller books,2023-05-24 15:19:36.896
+Add Children book,2023-05-24 15:23:43.015
+Add Author,2023-05-24 15:24:20.28
+Add Fiction book,2023-05-24 15:24:54.854
+Add Author,2023-05-24 15:26:22.999
+Add Author,2023-05-24 15:27:03.415
+Add Fiction book,2023-05-24 15:28:59.235
+Add Author,2023-05-24 15:32:59.435
+Add Author,2023-05-24 15:35:52.83
+Add Author,2023-05-24 15:36:07.718
+Add Author,2023-05-24 15:39:27.78
+Add Author,2023-05-24 16:08:58.679
+Add Fiction book,2023-05-24 16:09:24.522
+Add Fiction book,2023-05-24 16:10:20.106
+Add Author,2023-05-24 16:16:04.193
+Add Fiction book,2023-05-24 16:16:16.796
+Add Client,2023-05-24 16:16:40.087
+Add Client,2023-05-24 16:17:58.61
+Add Author,2023-05-24 16:18:45.63
+Add Fiction book,2023-05-24 16:18:56.383
+Add Extended Loan,2023-05-24 16:19:26.216
+Add Author,2023-05-24 16:30:42.715
+Add Author,2023-05-24 16:31:45.312
+Add Fiction book,2023-05-24 16:32:18.684
+Add Author,2023-05-24 16:36:19.006
+Add Fiction book,2023-05-24 16:36:39.185
+Add Fiction book,2023-05-24 16:37:15.911
+Add Fiction book,2023-05-24 16:37:37.807
+Order genres based on frequency,2023-05-24 16:37:47.767
+Check if there are fantasy and bestseller books,2023-05-24 16:37:55.267
+Check if there are books left,2023-05-24 16:38:28.046
+Update Fiction book,2023-05-24 16:38:45.06
+Delete Fiction book,2023-05-24 16:40:34.298
+Order genres based on frequency,2023-05-24 16:40:49.007
+Check type of author,2023-05-24 16:41:02.996
+Add Author,2023-05-24 16:41:26.431
+Add Non-Fiction book,2023-05-24 16:41:43.99
+Add Non-Fiction book,2023-05-24 16:42:24.788
+Check books left of Non-Fiction book,2023-05-24 16:42:46.627
+Add Author,2023-05-24 16:47:28.372
+Add Non-Fiction book,2023-05-24 16:47:40.871
+Check books left of Non-Fiction book,2023-05-24 16:47:51.297
+Add Author,2023-05-24 16:49:46.645
+Add Non-Fiction book,2023-05-24 16:50:14.001
+Check books left of Non-Fiction book,2023-05-24 16:50:38.354
+Show all editions of Non-Fiction book,2023-05-24 16:50:49.769
+Add Author,2023-05-24 16:56:14.971
+Add Non-Fiction book,2023-05-24 16:56:24.785
+Check books left of Non-Fiction book,2023-05-24 16:56:34.08
+Add Author,2023-05-24 16:58:05.306
+Add Non-Fiction book,2023-05-24 16:58:15.413
+Check books left of Non-Fiction book,2023-05-24 16:58:32.843
+Add Author,2023-05-24 17:00:35.149
+Add Non-Fiction book,2023-05-24 17:00:50.514
+Check books left of Non-Fiction book,2023-05-24 17:01:03.151
+Show all editions of Non-Fiction book,2023-05-24 17:01:17.081
+Add Author,2023-05-24 17:02:47.686
+Add Non-Fiction book,2023-05-24 17:02:58.502
+Show all editions of Non-Fiction book,2023-05-24 17:03:05.997
+Add Author,2023-05-24 17:04:03.389
+Add Non-Fiction book,2023-05-24 17:04:09.019
+Check books left of Non-Fiction book,2023-05-24 17:04:18.248
+Show all editions of Non-Fiction book,2023-05-24 17:04:30.648
+Update Non-Fiction book,2023-05-24 17:04:45.322
+Add Author,2023-05-24 17:10:15.866
+Add Non-Fiction book,2023-05-24 17:10:20.804
+Update Non-Fiction book,2023-05-24 17:10:28.709
+Add Author,2023-05-24 17:10:57.774
+Add Non-Fiction book,2023-05-24 17:11:02.642
+Delete Non-Fiction book,2023-05-24 17:11:11.276
+Add Author,2023-05-24 17:12:16.94
+Add Children book,2023-05-24 17:12:27.68
+Check Children books left,2023-05-24 17:12:49.331
+Determine average age limit,2023-05-24 17:12:56.961
+Number of Children books,2023-05-24 17:13:07.251
+Update Children book,2023-05-24 17:13:36.275
+Delete Children book,2023-05-24 17:13:42.452
+Add Client,2023-05-24 17:13:56.652
+Check if a client is retired,2023-05-24 17:14:03.364
+Show sum of all taxes paid by a client,2023-05-24 17:14:12.787
+Delete Client,2023-05-24 17:14:24.547
+Add Author,2023-05-24 17:17:08.987
+Add Fiction book,2023-05-24 17:17:23.164
+Add Client,2023-05-24 17:17:55.092
+Add Extended Loan,2023-05-24 17:19:05.603
+Longest book,2023-05-24 17:21:02.051
+Tip imprumut,2023-05-24 17:21:44.042
+Loan authors,2023-05-24 17:22:00.725
+Add Author,2023-05-24 17:30:06.819
+Add Fiction book,2023-05-24 17:30:14.823
+Insert Row into Author,2023-05-24 17:40:10.861
+Insert Row into Author,2023-05-24 17:40:39.597
+Insert Row into Author,2023-05-24 17:41:25.262
