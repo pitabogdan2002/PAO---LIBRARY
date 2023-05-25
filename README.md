@@ -1,10 +1,12 @@
-Proiectul meu presupune gestiunea unei biblioteci. a Are următoarele tipuri de obiecte:
+Proiectul meu presupune gestiunea unei biblioteci. 
+Are următoarele tipuri de obiecte:
 
-3 tipuri de carti (Fiction, NonFiction, Children)
-client
-autor
-împrumut care poate fi normal sau extins
-data
+- 3 tipuri de carti (Fiction, NonFiction, Children)
+- client
+- autor
+- împrumut care poate fi normal sau extins
+- data
+
 Pentru fiecare clasă avem Repository, Service și Controller. Controller-ul este apelat în Main.
 
 Ca si fucntionalitati avem:
